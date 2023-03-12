@@ -32,6 +32,8 @@ social:
 organizations:
   - name: University of North Dakota
     url: https://und.edu/
+  - name: Financial Social Work Initiative
+    url: https://www.ssw.umaryland.edu/fsw/
 education:
   courses:
     - course: PhD in Social Work
