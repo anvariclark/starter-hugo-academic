@@ -1,5 +1,5 @@
 ---
-avatar_filename: bio-pic-website.jpg
+avatar_filename: avatar.jpg
 bio: My interests are focused on exploring, teaching, and doing financial social
   work.
 interests:
