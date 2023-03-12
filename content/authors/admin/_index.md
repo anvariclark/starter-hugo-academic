@@ -28,7 +28,7 @@ social:
     link: https://www.linkedin.com/in/jeffrey-anvari-clark/
   - icon: cv
     icon_pack: ai
-    link: uploads/CV.pdf
+    link: uploads/230301 CV - Jeffrey Anvari-Clark.pdf
 organizations:
   - name: University of North Dakota
     url: https://und.edu/
